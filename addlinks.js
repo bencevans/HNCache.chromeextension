@@ -1,5 +1,4 @@
 
-//var HNCacheURL = "http://hncache.bensbit.co.uk/";
 var HNCacheURL = "http://hncache.bensbit.co.uk/";
 
 for (var i = 0; i < (30*3); i+=3) {

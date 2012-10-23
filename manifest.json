@@ -1,8 +1,8 @@
 {
   "name": "HNCache",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "manifest_version": 2,
-  "description": "Creates a link a cached version of each item on Hacker News",
+  "description": "Creates a link to a cached version of each item on Hacker News",
   "homepage_url": "http://hncache.bensbit.co.uk",
   "icons": {
     "128": "icon-128.png" ,
